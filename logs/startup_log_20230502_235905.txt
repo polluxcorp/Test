@@ -1,0 +1,17 @@
+[Tue 05/02/2023 23:59:05.72] Starting script... 
+[Tue 05/02/2023 23:59:05.72] Updating repository... 
+fatal: detected dubious ownership in repository at 'I:/Pgrm/quotations'
+'I:/Pgrm/quotations' is owned by:
+	'S-1-5-32-544'
+but the current user is:
+	'S-1-5-21-123037922-4152056093-3485803176-1000'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory I:/Pgrm/quotations
+[Tue 05/02/2023 23:59:05.80] Starting artisan server... 
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+^C

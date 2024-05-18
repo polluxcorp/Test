@@ -1,0 +1,62 @@
+{
+    "laser": {
+        "name": "Laser",
+        "units": "inches",
+        "price": 1,
+        "notes": "carbon steel 0.076, stainless steel 0.11"
+    },
+    "weld": {
+        "name": "Welding",
+        "units": "inches",
+        "price": 0.565,
+        "notes": "carbon steel 0.44, stainless steel 0.56"
+    },
+    "press": {
+        "name": "Press",
+        "units": "minutes",
+        "price": 1.06,
+        "notes": ""
+    },
+    "saw": {
+        "name": "Saw",
+        "units": "minutes",
+        "price": 1,
+        "notes": ""
+    },
+    "drilling": {
+        "name": "Drilling",
+        "units": "minutes",
+        "price": 1,
+        "notes": ""
+    },
+    "cleaning": {
+        "name": "Cleaning",
+        "units": "minutes",
+        "price": 1,
+        "notes": ""
+    },
+    "painting": {
+        "name": "Painting",
+        "units": "minutes",
+        "price": 1,
+        "notes": ""
+    },
+    "pipe_thread": {
+        "name": "Pipe thread",
+        "units": "minutes",
+        "price": 1,
+        "notes": ""
+    },
+    "pipe_engage": {
+        "name": "Pipe engage",
+        "units": "minutes",
+        "price": 1,
+        "notes": ""
+    },
+    "press_setup": {
+        "name": "Press setup",
+        "units": "minutes",
+        "price": 1.06,
+        "notes": ""
+    }
+}
